@@ -1,0 +1,9 @@
+ Lab - Permissions: Instructions Help
+
+In this lab you will experiment with Android's Permissions architecture.
+
+You will create simple applications that use, define and enforce Android Permissions. After completing the lab you should better understand how permissions are used to control access to particular application components.
+
+Download the full lab writeup and skeleton files here.
+
+Please remember to read the Lab writeup carefully to understand the Lab's requirements and testing procedures.
