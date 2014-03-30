@@ -1,0 +1,9 @@
+ Lab - Intents: Instructions Help
+
+In this Lab you will experiment with Intents.
+
+You will create simple applications that create and use both explicit and implicit Intents to activate Activities. After completing the Lab you should better understand how Intents are used to identify, find and start Activities and how they are used to transfer data between Activities.
+
+Download the full Lab writeup and skeleton files here (https://d396qusza40orc.cloudfront.net/android%2FLabs%2FIntents%2FIntents.zip).
+
+Please remember to read the Lab writeup carefully to understand the Lab's requirements and testing procedures.
