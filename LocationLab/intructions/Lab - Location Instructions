@@ -1,0 +1,14 @@
+Lab - Location Instructions
+
+ In this lab you will experiment with Location.
+
+You will create a simple application that acquires location information, then retrieves data about the current location from an Internet web service, and then displays that information in a ListView. After completing this lab you should better understand how to acquire and use location information within an Android app.
+
+Download the latest version of the full lab writeup and skeleton files here(https://d396qusza40orc.cloudfront.net/android%2FLabs%2FLocationAndMaps%2FLocation-v4.zip). Note: We updated the download package to support students with no stable network and to clean up some minor issues. (March 6, 2014 at 13:01 UTC -5).
+
+You can get the data files used during testing at the following links.
+
+    Place 1's xml file (https://d396qusza40orc.cloudfront.net/android%2FLabs%2FLocationAndMaps%2Fplace1.xml)
+    Place 2's xml file (https://d396qusza40orc.cloudfront.net/android%2FLabs%2FLocationAndMaps%2Fplace2.xml)
+    USA flag gif (https://d396qusza40orc.cloudfront.net/android%2FLabs%2FLocationAndMaps%2Fus.gif)
+
