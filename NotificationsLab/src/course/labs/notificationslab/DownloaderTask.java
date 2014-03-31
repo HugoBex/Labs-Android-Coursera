@@ -172,7 +172,7 @@ public class DownloaderTask extends AsyncTask<String, Void, String[]> {
 						 * Integer(Activity.RESULT_OK)).toString()); log((new
 						 * Integer(getResultCode())).toString());
 						 */
-						if (/* change this */getResultCode() == Activity.RESULT_OK) {
+						if ( getResultCode() == Activity.RESULT_OK) {
 
 							// TODO: If so, create a PendingIntent using the
 							// restartMainActivityIntent and set its flags
