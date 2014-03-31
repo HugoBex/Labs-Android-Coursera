@@ -1,0 +1,17 @@
+ Project - iRemember - Part 1 Instructions
+
+Note: This assignment will be graded together with your work on Part 2. As a result, this assignment writeup has no associated due date or grade. It is only intended as a way to provide you with the materials that you will need to start the project.
+
+In this project you will put some of the things you've learned in the course to use.
+
+You will create a simple application that allows users to capture and replay, location-based stories.
+
+Download the full project writeup, the skeleton files, and the iRememberContentProvider.apk file here.
+(https://d396qusza40orc.cloudfront.net/android/Project/iRemember-v2.zip)
+
+Note: The latest download package contains an updated version of the CreateStoryFragment.java skeleton file that fixes a bug that occurred when the user clicks on the "Clear" button while creating a new story (21:32 3/6/2014 UTC -5).
+
+You can also view a simple screencast of the basic app.
+(https://d396qusza40orc.cloudfront.net/android%2FProject%2FiRemember_Screencast.mp4)
+
+Please remember to read the project writeup carefully to understand its requirements and assessment procedures. 
