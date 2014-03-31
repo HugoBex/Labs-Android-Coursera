@@ -23,7 +23,7 @@ public class NewFeedTest extends
 	}
 
 	public void testRun() {
-		int shortDelay = 2000;
+		int shortDelay = 5000;
 
 		// Wait for activity:
 		// 'course.labs.notificationslab.TestFrontEndActivity'
